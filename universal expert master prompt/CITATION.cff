@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Universal Expert Master Prompt"
+type: software
+abstract: "A reusable, customizable master prompt for accurate, structured, evidence-aware, technically rigorous, and bilingual AI outputs."
+version: 1.0.0
+date-released: 2026-09-24
+license: MIT
+repository-code: "https://github.com/your-username/universal-expert-master-prompt"
+keywords:
+  - prompt-engineering
+  - master-prompt
+  - generative-ai
+  - research
+  - engineering
+  - academic-writing
+  - bilingual
+  - persian
+authors:
+  - family-names: "[YOUR-LAST-NAME]"
+    given-names: "Amir"
+message: "Please cite this repository if you use or adapt the master prompt in published work."
